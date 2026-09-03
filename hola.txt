@@ -1,3 +1,1 @@
-Hola Git
-estoy aprendiendo programación
-Primer proyecto con GitHub
+Estoy aprendiendo Git correctamente
