@@ -1,1 +1,3 @@
-Estoy aprendiendo Git , GitHub y programación profesional.
+Hola Git
+estoy aprendiendo programación
+Primer proyecto con GitHub
